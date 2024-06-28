@@ -9,6 +9,3 @@
 <!---
 Caio0408/Caio0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-hi
-(this file) f827jrf -=j repository because its "read" (this file) appears on your github profile
